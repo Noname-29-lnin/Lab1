@@ -1,0 +1,22 @@
+\newpage
+\section{Preparations}
+
+\renewcommand{\arraystretch}{1.5} % Tăng khoảng cách dòng cho dễ đọc
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|c|c|c|c|}
+		\hline
+		\multicolumn{2}{|c|}{\textbf{Conditions}} & \textbf{Equation of Current $I_{D}$} & \textbf{Operation Region} \\
+		\hline
+		$V_{GS} < V_{Th}$ & $V_{DS}$ & $I_{D} \approx 0$ & Cutoff \\  
+		\hline
+		$V_{GS} \geq V_{Th}$ & $V_{DS} < V_{GS} - V_{T}$ &  
+		$I_{D} = \mu_{n} C_{ox} \frac{W}{L} (V_{GS} - V_{T}) V_{DS} - \frac{1}{2} V_{DS}^{2}$ & Linear \\  
+		\hline
+		$V_{GS} \geq V_{Th}$ & $V_{DS} \geq V_{GS} - V_{T}$ &  
+		$I_{D} = \frac{1}{2} \mu_{n} C_{ox} \frac{W}{L} (V_{GS} - V_{T})^{2}$ & Saturation \\  
+		\hline
+	\end{tabular}
+	\caption{NMOS Regions of Operation}
+	\label{tab:nmos_regions}
+\end{table}

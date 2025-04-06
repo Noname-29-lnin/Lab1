@@ -1,0 +1,38 @@
+\babel@toc {nil}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Test setup for the NMOS\_VTG transistor.}}{5}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces $I_D$ vs $V_{DS}$ @ $V_{GS} = 1V$, and sweeping variable $V_{DS} = [0, 1.5](V)$ step $10mV$.}}{5}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces $I_D$ vs $V_{GS}$ @ $V_{DS} = 1.5V$, and sweeping variable $V_{GS} = [0, 1.5](V)$ step $10mV$.}}{6}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Test setup for the PMOS\_VTG transistor.}}{6}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces $I_D$ vs $V_{DS}$ @ $V_{SG} = 1V$, and sweeping variable $V_{SD} = [0, 1.5](V)$ step $10mV$.}}{7}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces $I_D$ vs $V_{GS}$ @ $V_{SD} = 1.5V$, and sweeping variable $V_{SG} = [0, 1.5](V)$ step $10mV$.}}{7}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Testbench NMOS\_VTG for experiment 2.}}{10}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces $I_D$ vs $V_{GS}$ sweeping variable $V_{DS} = [0, 1](V)$ step $0.25V$.}}{10}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces $I_D$ vs $V_{DS}$ sweeping variable $V_{GS} = [0, 1](V)$ step $0.25V$.}}{11}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces $I_D$ vs $V_{DS}$ sweeping variable $W = [30, 210](nm)$ step $30nm$.}}{11}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces $I_D$ vs $V_{DS}$ sweeping variable $L = [30, 240](nm)$ step $30nm$.}}{12}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Testbench PMOS\_VTG for experiment 2.}}{13}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces $I_D$ vs $V_{GS}$ sweeping variable $V_{DS} = [0, 1](V)$ step $0.25V$.}}{13}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces $I_D$ vs $V_{DS}$ sweeping variable $V_{GS} = [0, 1](V)$ step $0.25V$.}}{14}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces $I_D$ vs $V_{DS}$ sweeping variable $W = [30, 210](nm)$ step $30nm$.}}{14}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces $I_D$ vs $V_{DS}$ sweeping variable $L = [30, 240](nm)$ step $30nm$.}}{15}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Testbench NMOS\_VTG for experiment 3.}}{16}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces $I_{D}$ vs $V_{GS}$ @ $V_{DS} = 1V$, $V_{SB} = [0.1, 0.55, 0.9] V$, and sweeping $V_{GS} = [0, 1.5]V$ with step $10mV$.}}{16}{figure.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces $I_{D}$ vs $V_{DS}$ @ $V_{GS} = 1V$, $V_{SB} = [0.1, 0.55, 0.9] V$, and sweeping $V_{DS} = [0, 1.5] V$ with step $10mV$.}}{17}{figure.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with a step of $10mV$ for two value of $V_{GS} = \{0.5, 0.75\} V$, the NMOS with $(W/L) = (90n/50n)$}}{18}{figure.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with a step of $10mV$ for two value of $V_{GS} = \{0.5, 0.75\}$, the NMOS with $(W/L) = (120n/60n)$}}{19}{figure.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Use a tool to calculate $\lambda $.}}{19}{figure.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ with $(W/L) = (90n/50n)$}}{20}{figure.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ with $(W/L) = (120n/60n)$}}{20}{figure.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ with $(W/L) = (90n/50n)$}}{21}{figure.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ with $(W/L) = (120n/60n)$}}{22}{figure.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Testbench PMOS\_VTG for experiment 3.}}{23}{figure.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces $I_{D}$ vs $V_{GS}$ @ $V_{DS} = 1V$, $V_{SB} = [0.1, 0.55, 0.9] V$, and sweeping $V_{GS} = [0, 1]V$ with step $10mV$.}}{23}{figure.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces $I_{D}$ vs $V_{DS}$ @ $V_{GS} = 1V$, $V_{SB} = [0.1, 0.55, 0.9] V$, and sweeping $V_{DS} = [0, 1]V$ with step $10mV$.}}{24}{figure.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ for value of $V_{GS} = 0.5V$ and $(W/L) = (90n/50n)$}}{24}{figure.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ for value of $V_{GS} = 0.5$ and $(W/L) = (120n/60n)$}}{25}{figure.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ for $(W/L) = (90n/50n)$}}{25}{figure.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ for $(W/L) = (120n/60n)$}}{26}{figure.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces $I_{DS}$ vs. $V_{DS}$ with a step of $10,\text {mV}$ for $(W/L) = (90n/50n)$}}{26}{figure.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces $I_{DS}$ vs $V_{DS}$ with step $10mV$ với $(W/L) = (120n/60n)$}}{27}{figure.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Schematric NMOS ($(W/L) = (120n/90n)$).}}{29}{figure.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Schematric PMOS ($(W/L) = (120n/90n)$).}}{32}{figure.37}%
